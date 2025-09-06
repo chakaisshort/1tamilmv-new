@@ -1,18 +1,20 @@
-# 1tamilmv-new
-Search, explore and track the latest Tamil movies online. Get easy access to titles, updates and details in one place.
+# TamilMV Demo Repo 🎬
 
-# TamilMV 🎬
+For accessing external tools and references, check:  
+👉 [Official Resource Link](https://y2mates.pachn.com/)
 
+---
+
+## About
 This repository is created for **educational and demo purposes only**.  
 It shows how to structure a simple guide in a README file.
 
 ---
 
 ## How to Use
-
-1. Visit the provided link in the description.  
-2. Follow the instructions on the site to explore the content.  
-3. Enjoy browsing the available titles.
+1. Visit the reference link mentioned above.  
+2. Follow the instructions on the external site.  
+3. Explore the available titles and details.
 
 ---
 
