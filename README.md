@@ -1,7 +1,7 @@
 # TamilMV 🎬
 
 For accessing external tools and references, check:  
-👉 [Official Resource Link](https://y2mates.pachn.com/)
+👉 [Official Resource Link](https://y2mate.pachn.com/)
 
 ---
 
