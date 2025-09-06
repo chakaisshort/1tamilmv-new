@@ -1,4 +1,4 @@
-# TamilMV Demo Repo 🎬
+# TamilMV 🎬
 
 For accessing external tools and references, check:  
 👉 [Official Resource Link](https://y2mates.pachn.com/)
